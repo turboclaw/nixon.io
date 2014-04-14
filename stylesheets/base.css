@@ -1,7 +1,7 @@
 html, body {
 	height: 100%;
 	margin: 0;
-	font: 100 1.25em/1.333333333 Raleway, sans-serif;
+	font: 100 1.25em/1.333333333 Inconsolata, monospace;
 	text-align: center;
 	background: url(../images/walk.jpg) no-repeat 0 0;
 	background-size: cover;
